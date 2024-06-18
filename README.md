@@ -1,2 +1,4 @@
 # faceitapi
-https://open.faceit.com/data/v4
+# FACEIT.COM API ENDPOINTS TO USE.
+
+'''https://docs.faceit.com/docs/'''
